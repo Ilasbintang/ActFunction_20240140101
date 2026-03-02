@@ -21,3 +21,7 @@ void output(){
     cout << "Hasilnya : " << luasPersegi();
 }
 
+int main(){ //mulai
+    input();
+    output();
+} //selesai
